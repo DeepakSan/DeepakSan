@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepakSanjay
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in webdevelopment,Python
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me @ sjanakisuresh@gmail.com
 
 <!---
