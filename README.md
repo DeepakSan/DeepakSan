@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepakSanjay
-- 👀 I’m interested in webdevelopment,Python
-- 🌱 I’m currently learning Cloud Computing
+- 👀 I’m interested in DevOps,Python
+- 🌱 I’m currently learning Docker, k8s
 - 📫 How to reach me @ sjanakisuresh@gmail.com
 
 <!---
